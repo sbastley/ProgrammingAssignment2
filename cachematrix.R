@@ -1,6 +1,6 @@
 ## The first function takes in a matrix and puts functions that are inside in a list.
 ## The second takes in the list from the first and will calculate the inverse matrix
-## if there is a cached matrix
+## if there is no cached matrix
 
 ## This function takes in a matrix and returns a list of other functions which can
 ## then be called using a subset. The inverse matrix is calculated if called.
